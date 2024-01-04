@@ -1,0 +1,17 @@
+{
+    "name": "Swadeshi Software PWA",
+    "short_name": "SwadeshiPWA",
+    "description": "Swadeshi Kitchen Web App",
+    "scope": "/swadeshikitchen/",
+    "start_url": "/swadeshikitchen/",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "display": "standalone", 
+    "icons": [
+        {
+          "src": "swadeshikitchen/pics/logo.jpg",
+          "type": "image/jpg",
+          "sizes": "700x700"
+        }
+    ]
+  }

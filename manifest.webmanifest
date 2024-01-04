@@ -10,7 +10,7 @@
     "icons": [
         {
           "src": "/swadeshikitchen/pics/logo.jpg",
-          "type": "image/jpg",
+          "type": "image/png",
           "sizes": "700x700"
         }
     ]

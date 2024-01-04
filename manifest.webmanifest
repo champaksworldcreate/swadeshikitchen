@@ -9,7 +9,7 @@
     "display": "standalone", 
     "icons": [
         {
-          "src": "swadeshikitchen/pics/logo.jpg",
+          "src": "/swadeshikitchen/pics/logo.jpg",
           "type": "image/jpg",
           "sizes": "700x700"
         }
